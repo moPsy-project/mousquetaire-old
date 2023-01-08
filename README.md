@@ -12,3 +12,6 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 BY: Stefan Haun (mail@tuxathome.de)
 
 See [LICENSE.txt](LICENSE.txt) for details.
+
+The moPsy logo and derived artifacts are © 2021-2023 Stefan Haun
+Reproduction on unaltered boards is permitted.
